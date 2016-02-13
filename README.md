@@ -4,7 +4,7 @@ Switch sendy list:
 
 ```html
 <script type="text/javascript" src='https://code.jquery.com/jquery-2.2.0.min.js'></script>
-<script type="text/javascript" src='http://cdn.rawgit.com/juanpastas/sendy-list-switch/master/main.js'></script>
+<script type="text/javascript" src='https://cdn.rawgit.com/juanpastas/sendy-list-switch/v1/main.js'></script>
 <script>
  // this version not working yet
  SwitchList('.to-switch', function(params){
@@ -25,7 +25,7 @@ To copy and paste:
 
 ```html
 <script type="text/javascript" src='https://code.jquery.com/jquery-2.2.0.min.js'></script>
-<script type="text/javascript" src='http://cdn.rawgit.com/juanpastas/sendy-list-switch/master/main.js'></script>
+<script type="text/javascript" src='https://cdn.rawgit.com/juanpastas/sendy-list-switch/v1/main.js'></script>
 <script type="text/javascript">
     SwitchList({
         facebook: 'id1',
