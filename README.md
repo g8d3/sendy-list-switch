@@ -19,3 +19,18 @@ Switch sendy list:
 ...
 </form>
 ```
+
+
+To copy and paste:
+
+```html
+<script type="text/javascript" src='https://code.jquery.com/jquery-2.2.0.min.js'></script>
+<script type="text/javascript" src='http://cdn.rawgit.com/juanpastas/sendy-list-switch/master/main.js'></script>
+<script type="text/javascript">
+    SwitchList({
+        facebook: 'id1',
+        sm: 'id2'
+    });
+</script>
+```
+
