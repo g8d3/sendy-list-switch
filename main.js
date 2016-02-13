@@ -3,7 +3,7 @@ var SwitchList = function(obj){
   
   $('.to-switch').submit(function(e){
     $(this).find('[name=list]').val(obj[params.utm_source]);
-    alert(obj[params.utm_source]);
+    // alert(obj[params.utm_source]);
   });
   
   
